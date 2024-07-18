@@ -1,4 +1,4 @@
-Local Iceberg Demo:
+# Local Iceberg Demo
 
 `seed.ipynb`: Load parquet into Iceberg Table
 
